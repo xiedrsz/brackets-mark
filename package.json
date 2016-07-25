@@ -1,0 +1,8 @@
+{
+    "name": "makeamark",
+    "title": "Marker",
+    "description": "Highlight the selections in the code.",
+    "homepage": "https://github.com/xiedrsz/brackets-mark/",
+    "version": "1.0.0",
+    "author": "xiedr"
+}
